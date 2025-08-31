@@ -20,19 +20,10 @@ export default function ComingSoon() {
       </div>
 
       <div className="relative z-10 flex flex-col items-center justify-center min-h-screen px-4">
-        {/* Logo */}
-        <div className="mb-12">
-          <img
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20250829_2113_Aperfei%C3%A7oamento%20Criativo_remix_01k3w52hk3f189sh71xrqsg52y-wY7FDFiad7uNSWhNZkAS7VheC1JdKE.png"
-            alt="Lostyo Logo"
-            className="mx-auto h-32 md:h-40 w-auto opacity-90"
-          />
-        </div>
 
-        {/* Coming Soon Text */}
         <div className="mb-12 text-center">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">
-            Coming Soon...
+            404
           </h1>
         </div>
 
