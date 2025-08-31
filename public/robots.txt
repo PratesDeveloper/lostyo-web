@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /private
+
+# Host
+Host: https://lostyo.com
+
+# Sitemaps
+Sitemap: https://lostyo.com/sitemap.xml
+Sitemap: https://lostyo.com/server-sitemap.xml

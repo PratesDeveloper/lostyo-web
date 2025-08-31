@@ -93,8 +93,18 @@ export const metadata: Metadata = {
     },
   },
   category: "technology",
-  themeColor: "#000000",
 };
+
+// nova função pra themeColor
+export function generateViewport() {
+  return {
+    viewport: {
+      width: "device-width",
+      initialScale: 1,
+    },
+    themeColor: "#000000",
+  };
+}
 
 export default function RootLayout({
   children,
